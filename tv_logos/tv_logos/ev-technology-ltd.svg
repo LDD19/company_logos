@@ -1,0 +1,15 @@
+<!-- by TradingView --><svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="url(#paint0_linear_229_4322)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.4889 7H16V8H11.8L9.90289 10.5675L9.37535 9.85584L11.4889 7ZM3 7H6.20676L9.37197 11.2838L8.86134 11.9772H8.85796L8.84105 12L8.82414 11.9772H8.82077L5.89565 8H3V7ZM2 9V10H6.30145L5.55072 9H2ZM3.29856 11H7.01498L7.76233 12H4.0459L3.29856 11ZM13.5549 9H12.498L10.1159 12H11.1752L13.5549 9Z" fill="url(#paint1_linear_229_4322)"/>
+<defs>
+<linearGradient id="paint0_linear_229_4322" x1="3.34858" y1="3.12159" x2="21.9042" y2="24.4339" gradientUnits="userSpaceOnUse">
+<stop stop-color="#1A1E21"/>
+<stop offset="1" stop-color="#06060A"/>
+</linearGradient>
+<linearGradient id="paint1_linear_229_4322" x1="13.1402" y1="8.29504" x2="8.73337" y2="13.2931" gradientUnits="userSpaceOnUse">
+<stop stop-color="#65A9F3"/>
+<stop offset="0.411458" stop-color="#72CBCE"/>
+<stop offset="1" stop-color="#7EECAC"/>
+</linearGradient>
+</defs>
+</svg>
