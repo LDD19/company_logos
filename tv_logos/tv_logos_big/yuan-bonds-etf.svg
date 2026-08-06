@@ -1,0 +1,11 @@
+<!-- by TradingView --><svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" fill="#F0F3FA"/>
+<path d="M13 22.1304V43L25 34.3913C26.7197 33.1015 29 34.3503 29 36.5V38.7379C29 40.8338 31.5205 42.0522 33.2522 40.8715L43 33.8696V13L29 24V16.7277C29 14.6441 26.8518 13.2437 25.1182 14.3995L13 22.1304Z" fill="url(#paint0_linear_325_18843)"/>
+<defs>
+<linearGradient id="paint0_linear_325_18843" x1="13" y1="22.7826" x2="42.3478" y2="34.5217" gradientUnits="userSpaceOnUse">
+<stop stop-color="#BAA5E4"/>
+<stop offset="0.51555" stop-color="#9E96F2"/>
+<stop offset="1" stop-color="#8E92E3"/>
+</linearGradient>
+</defs>
+</svg>
